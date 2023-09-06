@@ -22,10 +22,6 @@
 
 ## [9, 4, 3, 3, 4, 9]
 
-## ➜  Previo_Assessment git:(main) ./palindrome.py 923145 6 5
-
-## [9, 9, 9, 9, 9, 9]
-
 ## ➜  Previo_Assessment git:(main) ./palindrome.py 823145 6 5
 
 ## [9, 9, 3, 3, 9, 9]
